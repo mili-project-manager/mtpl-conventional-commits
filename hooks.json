@@ -1,0 +1,3 @@
+{
+  "after-init": "chmod +x ./.husky/commit-msg"
+}

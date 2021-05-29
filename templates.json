@@ -1,0 +1,9 @@
+[
+  {
+    "path": "package.json",
+    "handlers": [
+      "handlebars",
+      "merge-json"
+    ]
+  }
+]
