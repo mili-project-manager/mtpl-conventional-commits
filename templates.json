@@ -1,13 +1,14 @@
 [
   {
-    "path": ".github/**",
+    "path": ".github/workflows/release.yml.hbs",
     "handlers": [
       {
         "name": "ignore",
         "options": {
           "eval": "resource.repository.isGitHubRepo === false"
         }
-      }
+      },
+      "handlebars"
     ]
   },
   {
