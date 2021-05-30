@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/mili-project-manager/mtpl-conventional-commits/compare/v0.0.2...v0.0.3) (2021-05-30)
+
+
+### Bug Fixes
+
+* remove lint-staged ([18c298f](https://github.com/mili-project-manager/mtpl-conventional-commits/commit/18c298fbe86cee3512932957c0e6192644807db2))
+
 ### [0.0.2](https://github.com/mili-project-manager/mtpl-conventional-commits/compare/v0.0.1...v0.0.2) (2021-05-30)
 
 
