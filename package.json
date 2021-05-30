@@ -9,7 +9,7 @@
     "lint": "eslint \"src/**/*.ts\" \"tests/**/*.ts\"  --fix",
     "ca": "git add -A && git-cz -av",
     "ci": "git-cz",
-    "release": "standard-version --no-verify",
+    "release": "standard-version",
     "release:alpha": "standard-version --prerelease alpha",
     "release:first": "standard-version --first-release"
   },
@@ -37,6 +37,7 @@
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^5.2.0",
     "is-ci": "^3.0.0",
+    "mili": "^4.4.1",
     "standard-version": "^9.3.0"
   }
 }
