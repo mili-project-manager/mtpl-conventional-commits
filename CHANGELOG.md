@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/mili-project-manager/mtpl-conventional-commits/compare/v0.0.3...v0.0.4) (2021-05-30)
+
+
+### Bug Fixes
+
+* wrong release lint ([ede82d6](https://github.com/mili-project-manager/mtpl-conventional-commits/commit/ede82d68d120f5934b7607294cd8e4a4811d6199))
+
 ### [0.0.3](https://github.com/mili-project-manager/mtpl-conventional-commits/compare/v0.0.2...v0.0.3) (2021-05-30)
 
 
