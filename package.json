@@ -1,6 +1,6 @@
 {
   "name": "@mtpl/conventional-commits",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Conventional Commits",
   "main": "index.js",
   "scripts": {
