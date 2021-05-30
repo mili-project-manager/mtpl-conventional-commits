@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://www.github.com/mili-project-manager/mtpl-conventional-commits/compare/v0.0.5...v0.0.6) (2021-05-30)
+
+
+### Bug Fixes
+
+* missing npm token in action ([b8327aa](https://www.github.com/mili-project-manager/mtpl-conventional-commits/commit/b8327aa3d0d81ecc7c00e9862ff4bb2d1b69afa3))
+
 ### [0.0.5](https://www.github.com/mili-project-manager/mtpl-conventional-commits/compare/v0.0.4...v0.0.5) (2021-05-30)
 
 
