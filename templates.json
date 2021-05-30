@@ -1,6 +1,17 @@
 [
   {
-    "path": "package.json",
+    "path": ".github/**",
+    "handlers": [
+      {
+        "name": "ignore",
+        "options": {
+          "eval": "resource.repository.isGitHubRepo === false"
+        }
+      }
+    ]
+  },
+  {
+    "path": "package.json.hbs",
     "handlers": [
       "handlebars",
       "merge-json"
